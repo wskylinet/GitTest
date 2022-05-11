@@ -14,6 +14,7 @@ namespace GitTest
     {
         public static void Main(string[] args)
         {
+            //Test Dev
             CreateWebHostBuilder(args).Build().Run();
         }
 
